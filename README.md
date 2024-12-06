@@ -2,7 +2,7 @@
 Membuat pemrograman fungai tambah, fungsi tampilkan, fungsi hapus, fungsi ubah menggunakan CLASS 
 
 # Codingan 
-```
+```python
 class DataMahasigma : 
     def __init__(self):
         self.DataMahasigma = []
