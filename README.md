@@ -168,3 +168,6 @@ Data vito Berhasil Di Ubah
 Masukan PIlihan (1-5): 5
 Program telas Selesai, Terima Kasih
 ```
+
+# Flowchart 
+![Flowchart](Flowchart_Labpy8.png)
